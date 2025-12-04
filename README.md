@@ -1,5 +1,5 @@
 # Wireless pico w buzzer setup
-![alt text](<Screenshot 2025-12-03 at 18-56-51 (28) Inbox beatcodes@proton.me Proton Mail.png>) ![alt text](IMG_0091-1.webp)
+![alt text](<Proton Mail.png>) ![alt text](IMG_0091-1.webp)
 
 To get started 
 1. get a pico wh ( i used a pico w i regret it)
